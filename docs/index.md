@@ -4,6 +4,7 @@
 
 ### Developer Guidance and Documentation
 - [UI Dashboard Features](./UI%20Features/index.md)
+- [Frontend Developer Roadmap](./UI%20Features/UI%20Developer%20Roadmap/index.md)
 - [Sim-EMS System Architecture](./System%20Architecture/SimEMS/index.md)
 
 ### Frontend Analysis and References
