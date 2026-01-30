@@ -1,24 +1,5 @@
 # Energy Management System (EMS) Controller - Features Documentation
 
-## Table of Contents
-1. [Authentication & Provisioning](#authentication--provisioning)
-2. [Cloud Integration](#cloud-integration)
-3. [Battery Management System (BMS)](#battery-management-system-bms)
-4. [Inverter Control](#inverter-control)
-5. [Power Control Modes](#power-control-modes)
-6. [Cluster Management](#cluster-management)
-7. [Grid Support Services](#grid-support-services)
-8. [State Machine & Monitoring](#state-machine--monitoring)
-9. [Communication Protocols](#communication-protocols)
-10. [Climate Control](#climate-control)
-11. [Safety & Error Handling](#safety--error-handling)
-12. [User Interface](#user-interface)
-13. [Firmware & Updates](#firmware--updates)
-14. [Data Storage & Telemetry](#data-storage--telemetry)
-15. [Hardware Integration](#hardware-integration)
-
----
-
 ## Authentication & Provisioning
 
 ### Device Bootstrapping
@@ -728,14 +709,6 @@ The EMS Controller provides a **complete, production-ready energy management sol
 - NumPy
 - Tkinter (for GUI)
 - See `requirement.txt` for complete list
-
----
-
-## Version Information
-- **System**: Energy Management System Controller
-- **Target Platform**: Raspberry Pi with Linux
-- **Python Version**: 3.7+
-- **License**: Proprietary (Xolta Energy)
 
 ---
 
