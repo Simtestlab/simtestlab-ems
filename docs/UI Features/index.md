@@ -3,6 +3,8 @@
 ## 1. Real-Time Monitoring Dashboard
 ### 1.1 Live Energy Flow Visualization
 
+![Dashboard Image](./live-dashboard-layout.png)
+
 - Interactive Sankey diagram showing energy flows between:
     - Solar -> Load / Battery / Grid
     - Battery -> Load / Grid
@@ -10,9 +12,7 @@
 - Real-time power values (kW) on each flow path
 - Directional arrows with animated flow intensity
 
-#### Example of a Sankey Reference
-![Sankey Diagram](./sankai.png)
-[Reference](https://sketchplanations.com/sankey-diagram)
+[Sankey Diagram](https://sketchplanations.com/sankey-diagram)
 
 #### Example Design Reference
 ![Reference Diagram](./design-reference.png)
@@ -38,6 +38,8 @@ Thickness = (Power in kW / Max System Capacity) * Max Line Width
 - Flow Speed: Proportional to power (faster = more power)
 - Direction = arrow direction on line
 - Particle density = power density (more particles = more power)
+
+**Note**: The UI designed should be mobile responsive so use flex boxes and make sure they render properly across multiple screens.
 
 ### 1.2 Multi-Site Overview (Multiple Locations)
 ![Multisite-dashboard-reference-image](./multi-site-dashboard.png)
