@@ -1,4 +1,4 @@
-# Energy Management System - Feature List
+# Energy Management System Dashboard - Feature List
 
 ## 1. Real-Time Monitoring Dashboard
 ### 1.1 Live Energy Flow Visualization
